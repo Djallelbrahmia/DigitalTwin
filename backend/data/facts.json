@@ -1,0 +1,141 @@
+{
+    "name": "Brahmia",
+    "full_name": "Djallel Brahmia",
+    "title": "AI Engineer | Cloud & MLOps",
+    "contact": {
+      "email": "dbrahmia03@gmail.com",
+      "phone": "+33 744 254 383",
+      "location": "Paris, France"
+    },
+    "profile": "Ingénieur IA spécialisé en LLMs, Cloud AWS et MLOps, avec une solide expérience dans le déploiement et l’optimisation de solutions d’intelligence artificielle. À la recherche d’un CDI – Disponible immédiatement – Mobilité nationale.",
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect – Associate",
+        "issuer": "Amazon Web Services",
+        "year": 2025
+      },
+      {
+        "name": "AWS Certified AI Practitioner",
+        "issuer": "Amazon Web Services",
+        "year": 2025
+      }
+    ],
+    "skills": {
+      "Generative_AI": [
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "OpenAI SDK",
+        "MCP",
+        "RAG",
+        "Prompt Engineering"
+      ],
+      "Cloud_and_Infrastructure": [
+        "AWS (SageMaker, Bedrock)",
+        "Conception d’architectures IA scalables, sécurisées et optimisées"
+      ],
+      "AI_and_ML": [
+        "Deep Learning",
+        "LLMs",
+        "NLP",
+        "Computer Vision",
+        "QLoRA (Fine-Tuning)"
+      ],
+      "Software_Development": [
+        "Python",
+        "C",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "Personal_Qualities": [
+        "Apprentissage rapide",
+        "Esprit d’équipe",
+        "Autonomie",
+        "Adaptabilité"
+      ]
+    },
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "interests": [
+      "Développement de projets personnels",
+      "Sport et remise en forme",
+      "Documentaires historiques et écologiques"
+    ],
+    "experience": [
+      {
+        "title": "Stage en Deep Learning",
+        "company": "IFP Energies Nouvelles",
+        "location": "Rueil-Malmaison, France",
+        "start_date": "02/2025",
+        "end_date": "08/2025",
+        "responsibilities": [
+          "Conception et entraînement de modèles Deep Learning avancés (PINNs, FNO, PINO, CNN) pour modéliser des systèmes physiques complexes (Navier-Stokes).",
+          "Amélioration de la précision prédictive des modèles par rapport aux approches classiques (CFD).",
+          "Réduction du temps de calcul et d’expérimentation grâce à la simulation assistée par IA."
+        ]
+      },
+      {
+        "title": "Ingénieur Data",
+        "company": "United Parcel Service (UPS)",
+        "location": "Alger, Algérie",
+        "start_date": "09/2022",
+        "end_date": "07/2024",
+        "responsibilities": [
+          "Automatisation de la collecte, du nettoyage et de la mise à disposition de données IA via des pipelines data-to-model.",
+          "Développement d’applications analytiques et de tableaux de bord interactifs (React, Node.js).",
+          "Intégration de modèles prédictifs dans des dashboards web pour le suivi en temps réel des indicateurs."
+        ]
+      },
+      {
+        "title": "Stage de fin d’études",
+        "company": "Algérie Télécom",
+        "location": "Annaba, Algérie",
+        "start_date": "02/2022",
+        "end_date": "06/2022",
+        "responsibilities": [
+          "Découverte des architectures distribuées, des principes de résilience et de connectivité des systèmes.",
+          "Introduction aux infrastructures cloud et environnements à grande échelle."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Master en Intelligence Artificielle et Vision par Ordinateur",
+        "institution": "Université Paris-Saclay",
+        "location": "Île-de-France",
+        "start_date": "09/2024",
+        "end_date": "09/2025",
+        "gpa": "15/20"
+      },
+      {
+        "degree": "Diplôme d’ingénieur en informatique – systèmes embarqués",
+        "institution": "Ecole Nationale Supérieure de Technologie Avancées",
+        "location": "Alger, Algérie",
+        "start_date": "09/2017",
+        "end_date": "07/2022",
+        "gpa": "16/20"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Study and Comparison of Machine Learning Models for Air PM 2.5 Concentration Prediction",
+        "date": "2022-11-29",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9993569"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Système Agentic d’alerte sur les prix",
+        "description": "Développement d’un workflow multi-agents basé sur le fine-tuning de LLaMA et un système RAG. Intégration de scraping web, comparaison prédictions/réels et envoi automatique d’alertes.",
+        "technologies": ["LLaMA fine-tuning", "RAG", "Multi-agents"]
+      },
+      {
+        "name": "AI-Driven Trading Agents Platform",
+        "description": "Développement d’une plateforme d’agents autonomes de trading intégrant OpenAI SDK, MCP servers et un backend généré par IA.",
+        "technologies": ["OpenAI SDK", "MCP", "Agents autonomes"]
+      }
+    ]
+  }
+  
